@@ -1,4 +1,4 @@
-#### tominecon.7z
+### tominecon.7z
 ![launcher_screenshot](https://raw.githubusercontent.com/galium-team/tominecon.7z/main/assets_for_readme/Screenshot%202024-06-08%20143440.png)\
 \
 \
