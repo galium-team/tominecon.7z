@@ -1,4 +1,7 @@
 #### tominecon.7z
+![launcher_screenshot](https://raw.githubusercontent.com/galium-team/tominecon.7z/main/assets_for_readme/Screenshot%202024-06-08%20143440.png)\
+\
+\
 This is an extracted version of the found original <i>tominecon.7z</i> archive, from 11/14/2011\
 \
 the original (non dummy) archive contains the following:
