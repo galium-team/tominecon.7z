@@ -10,6 +10,9 @@ the original (non dummy) archive contains the following:
 > two installers for Java version 6 for i586 and x64 architectures\
 > an install.bat file (??? dont know what for ???)\
 > .minecraft folder for said minecraft launcher
+>
+> \
+> it also contains a jar file of minecraft 1.0.0, which i will not be uploading
 
 In case you want to verify, I will upload the original 7zip archive\
 \
